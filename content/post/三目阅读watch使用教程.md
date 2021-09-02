@@ -37,13 +37,17 @@ draft: false
        |---3文件名.mp3
 ```
 > 请注意,windows的压缩软件可能会导致中文名乱码，使用 7zip 软件进行压缩。  
-> ### 7zip教程  
+> ### 7zip教程    
 > 先下载安装软件
 > 链接：https://pan.baidu.com/s/1sCwuXrUKHgA38TuZK8Qqvg 
 > 提取码：uglc  
 
 选中你的资源文件夹，右键菜单选择7zip，添加到压缩包，参数填入`cu=on`
 ![QQ截图20210831214639.png](http://inews.gtimg.com/newsapp_ls/0/13940602260/0)
+
+### 单个mp3文件
+
+如果你不想压缩，而是直接使用mp3文件，可以直接上传到网盘，在缓存的时候选择mp3文件直接下载,下载完成会在music文件夹内。
 
 ## 准备WebDAV  
 推荐使用坚果云，应用也是默认使用坚果云的服务地址，先注册一个坚果云账号，然后开启webDAV。  
