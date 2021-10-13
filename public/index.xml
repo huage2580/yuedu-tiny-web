@@ -6,7 +6,19 @@
     <description>Recent content on 三目阅读</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 15:01:26 +0800</lastBuildDate><atom:link href="https://yuedu-apple.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 14:56:15 +0800</lastBuildDate><atom:link href="https://yuedu-apple.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ios15引起的网络问题</title>
+      <link>https://yuedu-apple.netlify.app/post/ios15%E5%BC%95%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Fri, 01 Oct 2021 14:56:15 +0800</pubDate>
+      
+      <guid>https://yuedu-apple.netlify.app/post/ios15%E5%BC%95%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98/</guid>
+      <description>问题描述 有些朋友在测试链接的时候会遇到网络问题，常见的有断网和SSL异常。
+解决办法有以下：   打开手机设置-》蜂窝网络-》（一直往下滚，找到 仅用于手表的APP这个选项）-》找到三目阅读watch-》关闭再打开。
+  手表连接上WIFI，然后手机关机，等一会在手表上重新测试网络。
+  </description>
+    </item>
+    
     <item>
       <title>Txt文件章节切割软件教程</title>
       <link>https://yuedu-apple.netlify.app/post/txt%E6%96%87%E4%BB%B6%E7%AB%A0%E8%8A%82%E5%88%87%E5%89%B2%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/</link>
