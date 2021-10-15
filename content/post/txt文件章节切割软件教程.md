@@ -7,7 +7,7 @@ draft: false
 
 ## 先下载软件  
 
-链接: https://pan.baidu.com/s/16r-9Hk-mfkniAYiz4vmncw 提取码: 6hrh
+链接: https://pan.baidu.com/s/1UmrnvEQRZkLrvmATZyvTfg 提取码: h82k 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ## 使用 
 1.双击exe文件运行  
@@ -18,3 +18,7 @@ draft: false
 ![QQ截图20210830135016.png](http://inews.gtimg.com/newsapp_ls/0/13940598950/0)  
 
 3.稍等几秒到几十秒，切割完成有个提示框，切割完成会在txt文件同级目录下，生成一个文件夹和一个zip文件。
+
+## 问题？
+
+即使不能分析出章节，也可以直接点开始切割，软件会按100行一个文件进行切割。
