@@ -7,8 +7,7 @@ draft: false
 
 ## 先下载软件  
 
-链接：https://pan.baidu.com/s/1vfnG00UIEBd_fSoVaCRIog 
-提取码：s20r  
+链接: https://pan.baidu.com/s/16r-9Hk-mfkniAYiz4vmncw 提取码: 6hrh
 
 ## 使用 
 1.双击exe文件运行  
