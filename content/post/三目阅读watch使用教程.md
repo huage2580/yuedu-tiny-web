@@ -11,7 +11,9 @@ draft: false
 
 三目阅读watch是在apple watch手表上独立使用的应用，在手表上阅读和听有声书。通过缓存WebDAV网盘的文件，实现离线阅读。  
 
-问题反馈和交流群：558016293
+问题反馈和交流群：558016293  
+
+这里是视频教程[https://www.bilibili.com/video/BV16L4y1B7ed/](https://www.bilibili.com/video/BV16L4y1B7ed/)
 
 ## 准备资源
 
