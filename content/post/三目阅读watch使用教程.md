@@ -13,7 +13,9 @@ draft: false
 
 问题反馈和交流群：558016293  
 
-这里是视频教程[https://www.bilibili.com/video/BV16L4y1B7ed/](https://www.bilibili.com/video/BV16L4y1B7ed/)
+这里是视频教程[https://www.bilibili.com/video/BV16L4y1B7ed/](https://www.bilibili.com/video/BV16L4y1B7ed/)  
+
+最近有朋友反馈ios15的蜂窝数据权限bug，会导致app没有网络，请参考第一篇文章。
 
 ## 准备资源
 
