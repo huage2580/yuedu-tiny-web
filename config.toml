@@ -1,4 +1,4 @@
-baseURL = 'https://yuedu-apple.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
 title = '三目阅读'
 theme = "paper"

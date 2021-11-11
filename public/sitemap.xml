@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuedu-apple.netlify.app/post/ios15%E5%BC%95%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98/</loc>
+    <loc>/post/ios15%E5%BC%95%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2021-10-01T14:56:15+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-10-01T14:56:15+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2021-10-01T14:56:15+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/post/txt%E6%96%87%E4%BB%B6%E7%AB%A0%E8%8A%82%E5%88%87%E5%89%B2%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/</loc>
+    <loc>/post/txt%E6%96%87%E4%BB%B6%E7%AB%A0%E8%8A%82%E5%88%87%E5%89%B2%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-09-01T15:01:26+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/post/%E4%B8%89%E7%9B%AE%E9%98%85%E8%AF%BBwatch%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>/post/test/</loc>
     <lastmod>2021-09-01T14:56:15+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/categories/</loc>
+    <loc>/post/%E4%B8%89%E7%9B%AE%E9%98%85%E8%AF%BBwatch%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-09-01T14:56:15+08:00</lastmod>
   </url><url>
-    <loc>https://yuedu-apple.netlify.app/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
